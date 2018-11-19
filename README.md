@@ -4,6 +4,6 @@
 
 <p>Replace folders (asset-builder, wiredep, wiredep-cli) in node_modules</p>
 
-<p>Replace folder (components) in assets</p>
+<p>Replace folder (components) in assets/styles</p>
 
 <p></p>
